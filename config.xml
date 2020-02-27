@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.websiteview" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>WebSiteView</name>
+<widget id="com.quraan.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Quraan.app</name>
     <description>
-        Websites view application
+        Listen, learn and memorize the Quraan!
     </description>
-    <author email="erwinchafros@gmail.com" href="http://ahmedessam.me">
+    <author email="erwinchafros@gmail.com" href="http://quraan.app">
         Ahmed Essam
     </author>
     <content src="index.html" />
