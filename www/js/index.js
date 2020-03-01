@@ -53,7 +53,7 @@ document.addEventListener("deviceready", openBrowser, false);
 /** Open the website **/
 function openBrowser() {
     //Change the following website to yours
-   var url = 'https://quraan.app/';
+   var url = 'https://quraan.app/dashboard';
    var target = '_blank';
    var options = "location=no,target=_self"
    var ref = cordova.InAppBrowser.open(url, target, options);
